@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.4",
+   "version":"0.0.5",
    "compatibility":{
       "minimum":"12",
       "verified":"12"
@@ -33,7 +33,7 @@
    },
    "packs":[
       {
-         "label":"Bodonius ödet",
+         "label":"Bordonius öde",
          "name":"bordonius-ode",
          "path":"./packs/bordonius-ode.db",
          "type":"Adventure",
