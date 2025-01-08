@@ -1,15 +1,15 @@
-2025/01/07-21:38:56.856 3034 Recovering log #13
-2025/01/07-21:38:56.863 3034 Delete type=0 #13
-2025/01/07-21:38:56.863 3034 Delete type=3 #11
-2025/01/07-21:43:46.074 80a4 Level-0 table #19: started
-2025/01/07-21:43:46.083 80a4 Level-0 table #19: 126851 bytes OK
-2025/01/07-21:43:46.085 80a4 Delete type=0 #17
-2025/01/07-21:43:46.085 80a4 Manual compaction at level-0 from '!adventures!2vZT9YoJgmeqEdaI' @ 72057594037927935 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at (end)
-2025/01/07-21:43:46.085 80a4 Manual compaction at level-1 from '!adventures!2vZT9YoJgmeqEdaI' @ 72057594037927935 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at '!adventures!2vZT9YoJgmeqEdaI' @ 6 : 1
-2025/01/07-21:43:46.085 80a4 Compacting 1@1 + 1@2 files
-2025/01/07-21:43:46.096 80a4 Generated table #20@1: 1 keys, 126851 bytes
-2025/01/07-21:43:46.096 80a4 Compacted 1@1 + 1@2 files => 126851 bytes
-2025/01/07-21:43:46.098 80a4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/01/07-21:43:46.098 80a4 Delete type=2 #15
-2025/01/07-21:43:46.098 80a4 Delete type=2 #19
-2025/01/07-21:43:46.119 80a4 Manual compaction at level-1 from '!adventures!2vZT9YoJgmeqEdaI' @ 6 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at (end)
+2025/01/07-21:49:45.040 45bc Recovering log #18
+2025/01/07-21:49:45.047 45bc Delete type=0 #18
+2025/01/07-21:49:45.047 45bc Delete type=3 #16
+2025/01/07-22:12:38.665 80a4 Level-0 table #24: started
+2025/01/07-22:12:38.682 80a4 Level-0 table #24: 131010 bytes OK
+2025/01/07-22:12:38.684 80a4 Delete type=0 #22
+2025/01/07-22:12:38.685 80a4 Manual compaction at level-0 from '!adventures!2vZT9YoJgmeqEdaI' @ 72057594037927935 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at (end)
+2025/01/07-22:12:38.685 80a4 Manual compaction at level-1 from '!adventures!2vZT9YoJgmeqEdaI' @ 72057594037927935 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at '!adventures!2vZT9YoJgmeqEdaI' @ 7 : 1
+2025/01/07-22:12:38.685 80a4 Compacting 1@1 + 1@2 files
+2025/01/07-22:12:38.701 80a4 Generated table #25@1: 1 keys, 131010 bytes
+2025/01/07-22:12:38.701 80a4 Compacted 1@1 + 1@2 files => 131010 bytes
+2025/01/07-22:12:38.703 80a4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/07-22:12:38.703 80a4 Delete type=2 #20
+2025/01/07-22:12:38.703 80a4 Delete type=2 #24
+2025/01/07-22:12:38.710 80a4 Manual compaction at level-1 from '!adventures!2vZT9YoJgmeqEdaI' @ 7 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at (end)
