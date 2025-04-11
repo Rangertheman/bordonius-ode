@@ -2,9 +2,9 @@
    "id":"bordonius-ode",
    "title":"Bordonius öde",
    "description":"Bordonius öde - Lehto Spel & Media",
-   "url":"https://github.com/perssonkrister/bordonius-ode",
-   "manifest":"https://raw.githubusercontent.com/perssonkrister/bordonius-ode/master/module.json",
-   "download":"https://github.com/perssonkrister/bordonius-ode/archive/master.zip",
+   "url":"https://github.com/Rangertheman/bordonius-ode",
+   "manifest":"https://raw.githubusercontent.com/Rangertheman/bordonius-ode/master/module.json",
+   "download":"https://github.com/Rangertheman/bordonius-ode/archive/master.zip",
    "authors":[
       {
          "name":"Krister Persson (Rangertheman)",
