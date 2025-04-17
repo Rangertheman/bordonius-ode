@@ -1,15 +1,15 @@
-2025/04/11-18:10:13.685 4520 Recovering log #94
-2025/04/11-18:10:13.687 4520 Delete type=0 #94
-2025/04/11-18:10:13.688 4520 Delete type=3 #92
-2025/04/11-18:12:41.276 60f8 Level-0 table #100: started
-2025/04/11-18:12:41.301 60f8 Level-0 table #100: 360624 bytes OK
-2025/04/11-18:12:41.302 60f8 Delete type=0 #98
-2025/04/11-18:12:41.305 60f8 Manual compaction at level-0 from '!adventures!2vZT9YoJgmeqEdaI' @ 72057594037927935 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at (end)
-2025/04/11-18:12:41.305 60f8 Manual compaction at level-1 from '!adventures!2vZT9YoJgmeqEdaI' @ 72057594037927935 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at '!adventures!2vZT9YoJgmeqEdaI' @ 5 : 1
-2025/04/11-18:12:41.305 60f8 Compacting 1@1 + 1@2 files
-2025/04/11-18:12:41.332 60f8 Generated table #101@1: 1 keys, 360624 bytes
-2025/04/11-18:12:41.332 60f8 Compacted 1@1 + 1@2 files => 360624 bytes
-2025/04/11-18:12:41.333 60f8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/04/11-18:12:41.333 60f8 Delete type=2 #96
-2025/04/11-18:12:41.333 60f8 Delete type=2 #100
-2025/04/11-18:12:41.333 60f8 Manual compaction at level-1 from '!adventures!2vZT9YoJgmeqEdaI' @ 5 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at (end)
+2025/04/17-17:53:14.545 7668 Recovering log #156
+2025/04/17-17:53:14.546 7668 Delete type=0 #156
+2025/04/17-17:53:14.546 7668 Delete type=3 #154
+2025/04/17-20:48:00.769 ae2c Level-0 table #161: started
+2025/04/17-20:48:00.803 ae2c Level-0 table #161: 359625 bytes OK
+2025/04/17-20:48:00.804 ae2c Delete type=0 #159
+2025/04/17-20:48:00.811 ae2c Manual compaction at level-0 from '!adventures!2vZT9YoJgmeqEdaI' @ 72057594037927935 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at (end)
+2025/04/17-20:48:00.811 ae2c Manual compaction at level-1 from '!adventures!2vZT9YoJgmeqEdaI' @ 72057594037927935 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at '!adventures!2vZT9YoJgmeqEdaI' @ 11 : 1
+2025/04/17-20:48:00.811 ae2c Compacting 1@1 + 1@2 files
+2025/04/17-20:48:00.847 ae2c Generated table #162@1: 1 keys, 359625 bytes
+2025/04/17-20:48:00.847 ae2c Compacted 1@1 + 1@2 files => 359625 bytes
+2025/04/17-20:48:00.848 ae2c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/17-20:48:00.848 ae2c Delete type=2 #109
+2025/04/17-20:48:00.849 ae2c Delete type=2 #161
+2025/04/17-20:48:00.925 ae2c Manual compaction at level-1 from '!adventures!2vZT9YoJgmeqEdaI' @ 11 : 1 .. '!adventures!2vZT9YoJgmeqEdaI' @ 0 : 0; will stop at (end)
